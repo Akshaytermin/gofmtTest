@@ -1,0 +1,2 @@
+# gofmtTest
+test go fmt
